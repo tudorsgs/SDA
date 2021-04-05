@@ -27,7 +27,6 @@ public class Operatii {
         public  double media(int x, int y) {
               double m;
               m = (x + y) / 2.0;
-
               return m;
 
         }
